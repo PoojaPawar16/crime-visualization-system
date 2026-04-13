@@ -1,4 +1,6 @@
 Crime Visualization System 
+
+
 The Crime Visualization System is a web-based application developed to address the challenges in traditional crime reporting and case Management processes. In many cases, crime reporting is manual, time consuming, and lacks proper data organisation, make it difficult for authorities to analyze and respond efficiently.
 
 Live Project 
